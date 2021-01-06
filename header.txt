@@ -1,0 +1,43 @@
+<header>
+
+	<div id="header_wrapper">
+		<div class="header_logo">
+			<a href="title"><img class="logo_site" alt="logo temporaire" src="pictures\logo-test.png"></a>
+		</div>
+		<div class="header_connexion_logIn">
+
+			<a href="null"><img class="header_connexion_logIn_logo"  alt="Connexion logo" src=pictures\user.png><p class="header_connxeion_mark">Connexion</p></a>
+		</div>
+	</div>
+	<nav id="menu">
+		<ul class="menu">
+			<li classe="cat">
+				<a href="null"><div><p>Actualités</p></div></a>
+				<ul class="menu_roll">
+				</ul>
+			</li>
+			<li classe="cat">
+				<a href="null"><div><p>Evenements</p></div></a>
+				<ul class="menu_roll">
+				</ul>
+			</li>
+			<li class="cat">
+				<a href="null"><div><p>Reservations</p></div></a>
+				<ul class="menu_roll">
+				</ul>
+			</li>
+			<li class="cat">
+				<a href="null"><div><p>Podcasts</p></div></a>
+				<ul class="menu_roll">
+					<li><a href=null><p>Le studio</p></a></li>
+					<li><a href=null><p>Miso Point</p></a></li>
+				</ul>
+			</li>
+			<li class="cat">
+				<a href="null"><p>Forums</p></a>
+				<ul class="menu_roll">
+				</ul>
+			</li>
+		</ul>
+	</nav>
+</header>
