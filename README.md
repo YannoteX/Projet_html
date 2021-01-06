@@ -2,6 +2,8 @@
 
 ## IMPORTANT
 
+Ce document permet à tout le monde d'apporter des précisions sur ses pages respectives.
+
 Pour les points d'ancrage :
 Toutes les images sont à mettre dans le fichier pictures, ainsi que les fichiers css dans le fichier css. N'oubliez de placer dans vos url : *nom_du_dossier\*nom_de_l_image*
 
