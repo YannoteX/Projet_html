@@ -1,0 +1,24 @@
+body{
+	background-color: #F4F6F7;
+	font-family : "HelveticaNeue light", sans serif;
+	font-size: 15px;
+	margin : 0px;
+}
+
+.rubrique{
+	
+	font-family: "Source Sans Pro Light", sans serif;
+	position : relative;
+	color : #EA4921 ;
+	font-size: 45px;
+	text-transform: uppercase;
+	width:fit-content;
+	right:50%;
+	left : 50%;
+	transform : translate(-50%, 0%);
+
+}
+
+#premier_element {
+	margin-top :130px;
+}
