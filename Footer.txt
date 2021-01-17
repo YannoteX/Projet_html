@@ -1,4 +1,5 @@
 <footer>
+	    <div class="contenu-footer">
 		<div class="bloc footer-MCJP">
                     <strong>A propos...</strong>
                         <ul class="listes-MCJP">
