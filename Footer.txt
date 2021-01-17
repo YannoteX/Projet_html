@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-     	<div id="premier_element">
-     	</div>
-    	<meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Le Footer</title>
-        <link rel="stylesheet" href="footer.css">   
-        <link rel="stylesheet" href="main.css"> 
- 		
-	   <footer>
-             <div class="contenu-footer">
-                <div class="bloc footer-MCJP">
+<footer>
+		<div class="bloc footer-MCJP">
                     <strong>A propos...</strong>
                         <ul class="listes-MCJP">
                             <li><a href="https://www.mcjp.fr/fr/la-mcjp/presentation"title="Presentation - MCJP">Presentation</a></li><p>
@@ -59,4 +48,3 @@
                 <a href="#premier_element"><img align="center" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Fleche-haut-rouge-icon.png" wight="40" height="40"></a>
             </button>
         </footer>
-</html>
