@@ -10,14 +10,9 @@ header{
 	font-family: "HelveticaNeue light", sans serif;
 	font-size: 15px;
 }
- 
+
 header p{
-	color: white;
-	margin:0px;
-	position: relative;
-	top:50%;
-	bottom:50%;
-	transform: translate(0%, -50%);
+	color:white;
 }
 
 header a{
@@ -27,36 +22,88 @@ header a{
 #header_wrapper {
 	display: flex;
 	width: 100%;
-	height:80px;
+	height:fit-content;
 }
 
-.header_logo {
-	width : auto;
+.logo{
+	width:fit-content;
+	height: auto;
 	left : 50%;
 	right: 50%;
 	transform: translate(-50%);
 	position : relative;
 }
+.logo p{
+	margin: 0px;
+	font-size: 50px;
+	font-family: "Electroharmonix-Regular";
+}
+@font-face {
+	font-family : "Electroharmonix-Regular";
+	src: url("electroharmonix.ttf");
+}
+.logo .japan{
+	font-size : 20px;
+	position: relative;
+	left : 50%;
+	right: 50%;
+	transform : translate(-10%);
+	color: #EA4921;
+}
 
-.header_connexion_logIn {
+.logo div{
+	display: inline-block;
+	vertical-align: middle;
+	position : relative;
+	width:fit-content;	
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.header_logo {
+	width : fit-content;
+	height:auto;
+}
+
+.header_logo img{
+	position : relative;
+	max-height : 80px;
+	width: auto;
+	border-radius: 45px
+}
+.header_logo p{
+	margin: 0px;
+	font-size:15px;
+	font-family: inherit;
+}
+.header_logo a{
+	color: #EA4921;
+	text-decoration: underline;
+}
+.header_logo a:hover{
+	color: white;
+}
+
+.header_connexion {
 	position : absolute;
 	right : 10px;
-	margin-top: 10px;
 	margin-right:5px;
+	width:fit-content;
+	height: 80px
 }
-
-.header_connxeion_mark{
+.header_connexion p{
 	display: inline-block;
+	vertical-align: middle;
+	color : white;
 }
-
-.header_connexion_logIn_logo{
-	width: 20px;
+.header_connexion a{
+	color : #EA4921 ;
 }
-
-.logo_site {
-	position : relative;
-	width : 152px;
-	height : auto;
+.header_connexion a:hover{
+	color : white;
+}
+.header_connexion img{
+	max-height : 40px;
 }
 
 #menu {
@@ -73,6 +120,15 @@ header a{
 	height : 100%;
 	padding: 0px;
 	margin : 0px;
+}
+
+.menu p{
+	color: white;
+	margin:0px;
+	position: relative;
+	top:50%;
+	bottom:50%;
+	transform: translate(0%, -50%);
 }
 
 .menu div{
@@ -107,14 +163,13 @@ header a{
 	position : absolute;
 	top: auto ;	
 	z-index: 1000;
-	background-image: linear-gradient(to bottom,#2C3E50 93%, transparent);
+	background-color: #2C3E50
 }
-
 .menu_roll li{
 	position : relative;
 	display: block !important;
 	height : 30px;
-	padding: 2px;
+	padding: 5px;
 	margin :0px;
 	color : white;
 }
