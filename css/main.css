@@ -22,6 +22,9 @@ body{
 	font-family: "Source Sans Pro Light";
 	src: url("SourceSansPro-Light.ttf");
 }
+@font-face{
+	font-family: "HelveticaNeue light":
+	src: url("HelveticaNeue-Light.ttf");
 
 #premier_element {
 	margin-top :145px;
