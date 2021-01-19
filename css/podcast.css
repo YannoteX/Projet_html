@@ -1,0 +1,185 @@
+.titre
+{   
+    margin:60px;
+	
+}
+
+
+h1
+{   
+    font-style: italic;
+    font-family:Bradley Hand, cursive;
+    color: white;
+    text-align: center;
+	font-size: 60px;
+}	
+
+.tete
+{
+	background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%);
+	border-radius: 50%;
+	width: 350px;
+	height: 100px;
+	margin-left: 720px;
+}
+
+h2
+{
+	margin-left: 20px;
+	font-size: 40px;
+	margin-bottom:1px;
+	text-align;
+}
+h3
+{
+	color: pink;
+}
+
+	
+.fond
+{   
+    z-index:-1;
+	background-position:center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-image:url("back_podcast.jpg");
+	width:100vw;
+	height:calc(100vh - 125px);
+	position:fixed;
+}
+
+
+.vid p
+{
+	display:inline-block;
+	color:white;
+	vertical-align:middle;
+	margin:0 px;
+}
+
+.vid .p2
+{
+	width: 200px;
+	font-size: 16px;
+	margin-left: 20px;
+	font-family: Bradley Hand, cursive;
+}
+
+.vid .p1
+
+{
+	width: fit-content;
+	margin-top: 0px;
+}
+
+.vid
+{
+    margin-top: 100px;
+    position:relative;
+    margin-left: 100px;
+    max-width: 600px;
+	height:317px;
+	background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%);
+	border-radius: 15px;
+	display:block;
+	
+}
+
+
+
+.vid2
+{
+    margin-top: 100px;
+    position:relative;
+    margin-left: 900px;
+    max-width: 600px;
+	height:317px;
+	background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%);
+	border-radius: 15px;
+	display:block;
+}
+
+.vid2 p
+{
+	display:inline-block;
+	color:white;
+	vertical-align:middle;
+	margin:0 px;
+}
+
+.vid2 .p1
+{
+	position:relative;
+	left: 95%;
+	width: fit-content;
+	margin-top: 0px;
+}
+
+.vid2 .p2
+{   
+    position:relative;
+	right:10px;
+	font-size:16px;
+	width:200px;
+	font-family: Bradley Hand, cursive;
+	color:white;
+	margin-right:30px;
+}
+
+.aud1
+{   
+    margin-bottom: 50px; 
+	height:350px;
+	margin-left:500px;
+	margin-right:50px;
+	border-radius:20%;
+	margin-top: 100px;
+    position:relative;
+    width: ;
+	display:block;
+
+}
+
+.aud2
+{   
+    margin-bottom: 50px; 
+	height:350px;
+	margin-left:500px;
+	margin-right:50px;
+	border-radius:20%;
+	margin-top: 100px;
+    position:relative;
+    width: ;
+	display:block;
+
+}
+
+.a1
+{
+	
+	font-family: Bradley Hand, cursive;
+	color:white;
+	display:inline-block;
+	position:relative;
+	margin:0px;
+    width: 800px;
+	background: linear-gradient(to top left, #ccffff 0%, #ffcccc 100%);
+	height:350px;
+	border-radius:50px;
+}
+
+
+
+ .a2
+
+{
+	font-family: Bradley Hand, cursive;
+	color:white;
+	display:inline-block;
+	position:relative;
+	margin:0px;
+    width: 800px;
+	background: linear-gradient(to top left, #ccffff 0%, #ffcccc 100%);
+	height:350px;
+	border-radius:50px;
+}
