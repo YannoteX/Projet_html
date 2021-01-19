@@ -1,0 +1,51 @@
+<footer>
+	    <div class="contenu-footer">
+		<div class="bloc footer-MCJP">
+                    <strong>A propos...</strong>
+                        <ul class="listes-MCJP">
+                            <li><a href="https://www.mcjp.fr/fr/la-mcjp/presentation"title="Presentation - MCJP">Presentation</a></li><p>
+                            <li><a href="https://www.mcjp.fr/fr/la-mcjp/historique"title="Historique - MCJP">Historique</a></li><p>
+                            <li><a href="https://www.mcjp.fr/fr/la-mcjp/la-fondation-du-japon"title="Fondation - MCJP">Sa fondation</a></li><p>
+                            <li><a href="https://www.mcjp.fr/fr/la-mcjp/Appel-d-offre">Les Offres</a></li><p>
+                            <li><a href="https://www.mcjp.fr/fr/la-mcjp/le-batiment">Présentation du Batiment</a></li>
+                        </ul>
+                </div>
+
+                <div class="bloc footer-contact">
+                    <strong>Contact</strong>
+                        <p>N°: 01-44-37-95-95</p>
+                        <p>Mail: contact@mcjp.fr</p>
+                        <p>Adresse: 101 bis Quai Branly, 75015 Paris</p>
+                </div>
+    
+                <div class="bloc footer-horaires">
+                    <strong>Horaires</strong>
+                        <ul class="listes-horaires">
+                            <li>❌Lundi Fermé</li>
+                            <li>✅Mardi 9h-18h</li>
+                            <li>✅Mercredi 8h-17h30</li>
+                            <li>✅Jeudi 10h-20h</li>
+                            <li>✅Vendredi 10h-17h</li>
+                            <li>✅Samedi 10h-18h</li>
+                            <li>❌Dimanche Fermé</li>
+                        </ul>
+                </div>
+               
+                <div class="bloc footer-medias">
+                    <strong>Réseaux Sociaux</strong>
+                        <ul class="listes-media">
+                            <li><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" wight="15" height="15" title="Instagram - mcjp">
+                            <a href="https://www.instagram.com/mcjp_officiel/?hl=fr" title="Instagram - mcjp">Instagram</a></li><p>            
+                            <li><img src="https://www.vid-marketing.com/wp-content/uploads/2017/01/YouTube-icon-full_color-768x541.png" wight="11" height="11" title="Youtube - mcjp">
+                            <a href="https://www.youtube.com/channel/UC6tThdaeY951YFJC_UDwRRQ/videos" title="Youtube - mcjp">Youtube</a></li><p>
+                            <li><img src="https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_960_720.png" wight="15" height="15" title="Facebook - mcjp">
+                            <a href="https://www.facebook.com/MCJP.officiel/" title="Facebook - mcjp">Facebook</a></li><p>  
+                            <li><img src="https://f.hellowork.com/blogdumoderateur/2019/11/twitter-logo-1200x1200.jpg" wight="15" height="15" title="Twitter - mcjp">
+                            <a href="https://twitter.com/mcjp_officiel" title="Twitter - mcjp">Twitter</a></li>
+                        </ul>    
+                </div> 
+            </div>
+            <button> 
+                <a href="#premier_element"><img align="center" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Fleche-haut-rouge-icon.png" wight="40" height="40"></a>
+            </button>
+        </footer>
