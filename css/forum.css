@@ -1,0 +1,143 @@
+.naviguation{
+	display: block;
+	background-color: #D2B4DE;
+	height : 110px;
+}
+.naviguation div{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.connexion{
+	width: fit-content;
+	height: 110px;
+}
+
+.ID{
+	width: fit-content;
+	height: : fit-content;
+	position: relative;
+	top : 50%;
+	bottom : 50%;
+	transform : translate(0%, -50%);
+}
+.ID img{
+	max-width : 100px;
+	height: auto;
+	position: relative;
+	left : 0%;
+	top: 0%;
+	display: block;
+}
+.ID p{
+	display: inline-block;
+	vertical-align: middle;
+	margin : 0px;
+	width : fit-content;
+	height: fit-content;
+	font-size: 40px;
+}
+
+.search {
+	width: fit-content;
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	margin-right: 10px
+
+}
+.search button, input{
+	display : inline-block;
+	vertical-align: middle;
+	border-radius : 5px;
+}
+.search input{
+	height : 30px;
+}
+.search button{
+	padding:0px;
+	width : 32px;
+	height: 32px;
+}
+.search img{
+	width : 30px;
+	height : 30px;
+}
+
+
+.chatroom{
+	position : relative;
+	margin-top: 30px;
+	margin-left : auto;
+	margin-right : auto;
+	border-radius : 15px;
+	background-color: #99A3A4 ;
+	width : 95%;
+	padding : 5px;
+}
+
+.chat{
+	position :relative;
+	width : 95%;
+	margin-left : auto;
+	margin-right: auto;
+	margin-bottom: 120px;
+}
+
+.category{
+	width: fit-content:;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	color : #A93226 ;
+}
+
+.discussion_list{
+	list-style-type : none;
+	padding: 5px;
+}
+
+section li{
+	background-color : #F4F6F7;
+	margin-bottom: 1px;
+	margin-top: 1px;
+}
+section li:hover{
+	background-color: #D2B4DE;
+}
+
+.normal{
+	margin-bottom: 10px;
+}
+.normal:hover{
+	background-color: #F4F6F7;
+}
+
+section li p{
+	display: inline-block;
+	border : solid 1px black;
+	background-color: transparent;
+	margin : 0px;
+}
+
+.subject {
+	width: 80%;
+	height : 20px;
+}
+.sender {
+	width: 19.2%;
+	height: 20px;
+	text-align: end;
+}
+
+.subject_title {
+	width: 80%;
+	height : 20px;
+	text-align: center;
+}
+
+.sender_title {
+	width: 19.2%;
+	height: 20px;
+	text-align: center;
+}

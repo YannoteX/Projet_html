@@ -1,0 +1,82 @@
+.naviguation{
+	display: block;
+	animation-name: not-connected;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}
+.naviguation div{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+@keyframes not-connected{
+	0% {
+		background-color: #D2B4DE
+	}
+	70% {
+		background-color: #D2B4DE
+	}
+	73% {
+		background-color: #A93226;
+	}
+	76% {
+		background-color: #D2B4DE
+	}
+	100% {
+		background-color: #D2B4DE
+	}
+}
+
+.connexion{
+	width: fit-content;
+	height: 160px;
+}
+
+.oops{
+	width: auto;
+	height: : fit-content;
+	display: inline-block;
+	vertical-align: middle;
+}
+.oops img{
+	max-width : 250px;
+	height: auto;
+	position: relative;
+	left : 0%;
+	top: 0%;
+	display: block;
+}
+.oops p{
+	display: inline-block;
+	vertical-align: middle;
+	margin : 0px;
+	width : fit-content;
+	height: fit-content;
+	font-size: 40px;
+}
+
+.search {
+	width: fit-content;
+	position: relative;
+	float: right;
+	margin-top: 100px;
+	margin-right: 10px
+
+}
+.search button, input{
+	display : inline-block;
+	vertical-align: middle;
+	border-radius : 5px;
+}
+.search input{
+	height : 30px;
+}
+.search button{
+	padding:0px;
+	width : 32px;
+	height: 32px;
+}
+.search img{
+	width : 30px;
+	height : 30px;
+}
