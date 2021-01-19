@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+     <head>
+     <meta charset="utf-8"/>
+     <link rel="stylesheet" href="css\main.css"/>
+     <link rel="stylesheet" href="css\actualité.css"/>
+     <link rel="stylesheet" href="css\header.css"/>
+     <link rel="stylesheet" href="css\footer.css"/>
+     <title> Actualités</title>
+ </head>
+
+ <body>
+ 	<h1 id="premier_element">Actualités</h1>
+ 	<ul>
+		<li><a href="#À la Une"> À la Une</li></a>
+		<li><a href="#Manga"> Manga</li></a>
+		<li><a href="#Cinéma">Cinéma</li></a>
+		<li><a  href="#Jeux-vidéos"> Jeux-vidéos</li></a>
+		<li><a href="#Musique">Musique</li></a>
+		<li><a href="#Animé">Animé</li></a>
+	</ul>
+ 	<hr/>
+
+ 	<section id="À la Une">
+ 		<h1 class="rubrique">À la Une </h1>
+ 		<ul class="list_items">
+ 			<li class="item">
+ 				<a class="link" href="null">
+ 					<div class="article">
+ 						<p class="title"> "One piece" : La belle lettre d'Eiichiro Oda à ses fans"</p>
+ 						<p><img src= "pictures\onepiece.jpg" alt="" id="onepiece"/></p>
+ 						<p>Alors que One Piece a atteint son 1000e épisode, le créateur de la saga, Eiichiro Oda, s’est adressé aux fans dans une belle lettre ouverte.</p>
+ 					</div>
+ 				</a>
+ 			</li>
+ 			<li class="item">
+				<a class="link" href="null">
+					<div class="article">
+						<p class="title"> L'animé The Promised Neverland saison 2 fera 11 épisodes</p>
+						<p><img src="pictures\tpn.jpg" alt="" id="tpn"/></p>
+						<p id="tpn3">C'est sur le site officiel que nous apprenons que l'animé The Promised Neverland fera 11 épisodes</p>
+					</div>
+				</a>
+			</li>
+
+
+
+<li class="item">
+	<a class="link" href="null">
+		<div class="article">
+            <p class="title">La maison d’édition de Dragon Ball interdit le partage d’images et de GIF du manga</p>
+            <p><img src="pictures\dbz.jpg" alt="" id="dbz"/></p>
+	<p>La Shueisha, célèbre maison d’édition japonaise qui publie notamment Dragon Ball, a décidé de partir à la chasse aux infractions de copyright sur les réseaux sociaux. Gare à vous si vous partagez une image ou un GIF d’un de ses mangas…</p>
+	</div>
+	</a>
+</li>
+		
+
+
+	<li class="item">
+		<a class="link" href="null">
+			<div class="article">
+	<p class="title">Dragon Quest XI S : Une édition ultime nécessaire ?</p>
+	<p><img src="pictures\dragonquest.jpg" alt="" id="dragonquest"/></p>
+		<p>Considérée comme la première saga de J-RPG sur console, Dragon Quest voit le jour en 1986 dans les studios Enix.</p>
+     </p>
+ </div>
+ </a>
+ </li> 
+    
+   <li class="item">
+   	<a class="link" href="null">
+   		<div class="article">
+   			<p class="title">Le film d'animation "Demon Slayer", plus gros succès historique au box-office japonais</p>
+	<p><img src="pictures\demonslayer.jpg" alt="" class="photoàgauche"/></p>
+		<p>Ce film raconte l'histoire de Tanjiro, un adolescent vivant au Japon, qui devient chasseur de démons après le massacre de sa famille par ces créatures assoiffées de sang humain.Le suspense n'était plus qu'une question de jours.</p>
+	</div>
+</a>
+</li>	
+</ul>
+</section>
+
+
+
+<section id="Manga">
+	<h1 class="rubrique">Manga</h1>
+	<ul class=" list_items">
+		<li class="item">
+			<a class="link" href="null">
+				<div class="article">
+					<p class="title">COMMENT "JUJUTSU KAISEN" EST DEVENU EN MOINS DE TROIS ANS UN DES MANGAS LES PLUS POPULAIRES AU MONDE</p>
+<p><img src="pictures\jujutsukaisen.jpg" alt="" id="jujutsu"/></p>
+<p>Le manga Jujutsu Kaisen de Gege Akutami vient de dépasser les 20 millions d'exemplaires vendus dans le monde en moins de trois ans d'existence. Un phénomène éditorial qui touche aussi la France.</p>
+</div>
+</a>
+</li>
+
+<li class="item">
+	<a class="link" href="null">
+		<div class="article">
+			<p class="title">Le manga Looking up to Magical Girls annoncé par Meian</p>
+			<p><img src="pictures\meian.jpg" alt="" id="meian"/></p>
+<p>La collection Daitan! des éditions Meian accueillera bientôt une nouvelle série: Looking up to Magical Girls, présenté comme une comédie BDSM dans laquelle s’affrontent des Magical Girls.
+</p>
+</div>
+</a>
+</li>
+
+<li class="item">
+	<a class="link" href="null">
+		<div class="article">
+			<p class="title">Wario débarque en manga chez Soleil</p>
+			<p><img src="pictures\wario.jpg" alt=""/></p>
+
+<p>Après Mario, son fidèle ennemi Wario débarquera bientôt lui aussi en manga aux éditions Soleil.</p>
+</div>
+</a>
+</li>
+</ul>
+</section>
+
+<section id="Animé">
+	<h1 class="rubrique">Animé</h1>
+	<ul class="list_items">
+		<li class="item">
+			<a class="link" href="null">
+				<div class="article">
+					<p class="title">Une date précise et une bande-annonce pour l'anime Edens Zero</p>
+					<p><img src="pictures\edenzero2.jpg" alt="" id="edenzero"/></p>
+<p>Prévue pour le printemps, l'adaptation en série animée du manga Edens Zero de Hiro Mashima s'est offert une bande-annonce.</p>
+</div>
+</a>
+</li>
+
+<li class="item">
+	<a class="link" href="null">
+		<div class="article">
+			<p class="title">Plusieurs vf à venir sur Crunchyroll</p>
+			<p><img src="pictures\drstone2.jpg" alt="" id="drstone"/></p>
+<p>La plateforme Crunchyroll a annoncé la mise en chantier de versions françaises pour certaines nouveautés de son catalogue.</p>
+</div>
+</a>
+</li>
+</ul>
+</section>
+
+
+<section id="Animé">
+	<h1 class="rubrique">Jeux-vidéos</h1>
+	<ul class="list_items">
+	<li class="item">
+	<a class="link" href="null">
+	<div class="article">
+	<p class="title">Un nouveau jeu pour Yu-Gi-Oh!</p>	
+  <p><img src="pictures\yugioh.jpg" alt="" id="yugioh"/></p>
+<p>Konami a annoncé la mise en chantier d'un nouveau jeu vidéo autour de l'une de ses licences-phares, Yu-Gi-Oh!.</p>
+</div>
+</a>
+</li>
+
+<li class="item">
+	<a class="link" href="null">
+		<div class="article">
+			<p class="title">The King Of Fighters XV se dévoile</p>
+<p><img src="pictures\fighter.jpg" alt="" id="fighter"/></p>
+<p>SNK a récemment dévoilé un peu plus en vidéos The King Of Fighters XV, le prochain bébé de sa célèbre série de jeux de combat.</p>
+</div>
+</a>
+</li>
+
+
+<li class="item">
+	<a class="link" href="null">
+		<div class="article">
+		<p class="title">Code Geass: nouvel anime et nouveau jeu</p>
+		<p><img src="pictures\codegeass.jpg" alt="codegeass"/></p>	
+<p>C'est ce weekend qu'a eu lieu au Japon un streaming dédié aux prochains projets autour de Code Geass, l'occasion de dévoiler deux bonnes nouvelles pour les fans: la confirmation d'un nouvel anime, et l'arrivée d'un jeu vidéo pour supports mobiles.</p>
+</div>
+</a>
+</li>
+</ul>
+</section>
+
+<section id="Cinéma">
+	<h1 class="rubrique">Cinéma</h1>
+	<ul class="list_items">
+		<li class="item">
+			<a class="link" href="null">
+				<div class="article">
+					<p class="title">Le film Parasite arrive en Blu-ray dans sa version n&b</p>
+					<p><img src="picutres\parasite.jpg" alt="" id="parasite"/></p>
+<p>Le film sud-coréen déjà culte Parasite de Bong Joon-ho ressortira cette semaine chez The Jokers en Blu-ray, dans sa version "Black and White" qui avait été proposée dans nos salles de cinéma le 19 février dernier.</p>
+</div>
+</a>
+</li>
+
+<li class="item">
+	<a class="link" href="null">
+		<div class="article">
+			<p class="title">Le film Little Zombies sortira au cinéma en décembre</p>
+			<p><img src="pictures\littlezombie.jpg" alt=""/></p>
+<p>Initialement prévu ce mois-ci puis reporté suite au confinement, le film Little Zombies sera à l'affiche dans les cinémas français dès la réouverture de ceux-ci à la mi-décembre !</p>
+</div>
+</a>
+</li>
+
+<li class="item">
+	<a class="link" href="null">
+		<div class="article">
+			<p class="title">Entretien avec la nouvelle génération d’animateur : Yuuhei SAKURAGI</p>
+			<p><img src="pictures\relative.jpg" alt=""/></p>
+	<p>Lors du Festival d’Annecy l’an dernier, nous avons eu l’occasion de voir Relative Worlds et de rencontrer son réalisateur : Sakuragi Yuuhei.</p>
+</div>
+</a>
+</li>
+</ul>
+</section>
+
+<section id="Musique">
+	<h1 class="rubrique">Musique</h1>
+	<ul class="list_items">
+		<li class="item">
+			<a class="link" href="null">
+				<div class="article">
+					<p class="title">Tigarah : le retour de la Japanese queen</p>
+					<p><img src="pictures\tigarah.jpg" alt=""/></p>
+					<p>Après quelques années d’absence, Tigarah revient bien déterminée à faire connaître davantage le rap japonais à la France.</p>
+				</div>
+			</a>
+		</li>
+
+		<li class="item">
+			<a class="link" href="null">
+				<div class="article">
+					<p class="title">Rencontre avec Kichigaï Taïko, The drum’s energy</p>
+					<p><img src="pictures\kichigai.jpg" alt=""/></p>
+					<p>Le taïko est un art japonais, traditionnellement utilisé dans les matsuri (festivals) et dans les pièces de théâtre. Il fait vibrer l’audience grâce à un son grave qui résonne énormément.  Rencontre avec les membres de Kichigaï Taïko.
+					</p>
+				</div>
+			</a>
+		</li>
+
+		<li class="item">
+			<a class="link" href="null">
+				<div class="article">
+					<p class="title">Les concerts symphoniques de jeux vidéo et d’animés</p>
+					<p><img src="pictures\concert.png" alt=""/></p>
+					<p>Loin d’être l’exclusivité du cinéma, les musiques de jeux vidéo ont depuis toujours marqué les esprits. Quoi de plus normal, alors, de leur dédier des concerts, au même titre que les grandes sagas du 7ème art tel qu’Harry Potter, Retour vers le futur, ou Star Wars.</p>
+				</div>
+			</a>
+		</li>
+	</ul>
+</section>
