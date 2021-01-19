@@ -1,3 +1,5 @@
+<header id="premier_element>
+</header>
 <footer>
 	    <div class="contenu-footer">
 		<div class="bloc footer-MCJP">
