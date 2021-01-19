@@ -44,6 +44,7 @@ ul{
 	font-size : 15px;
 	margin-right: auto;
 	margin-left: auto;
+	text-decoration: none;
 }
 
 .item p{
@@ -52,8 +53,4 @@ ul{
 .item img{
 	max-height :120px;
 	width : auto;
-}
-
-link{
-	font-style : none;
 }
