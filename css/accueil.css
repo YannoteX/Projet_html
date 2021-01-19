@@ -1,0 +1,138 @@
+.page{
+	z-index: -1;
+	font-family : "HelveticaNeue light", sans serif;
+	font-size: 15px;
+	width: 100vw;
+	height: calc(100vh - 126px);
+	position: fixed;
+	animation-name : slideshow;
+	animation-iteration-count : infinite ;
+	animation-duration: 300s;
+}
+
+@keyframes slideshow {
+	0%{
+		background-image: url("Evangelion-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	10%{
+		background-image: url("Evangelion-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	15%{
+		background-image: url("GTO-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	25%{
+		background-image: url("GTO-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	30%{
+		background-image: url("BNA-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	40%{
+		background-image: url("BNA-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	45%{
+		background-image: url("Demon_slayer-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	55%{
+		background-image: url("Demon_slayer-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	60%{
+		background-image: url("Haruhi_suzumiya-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	70%{
+		background-image: url("Haruhi_suzumiya-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	75%{
+		background-image: url("Naruto-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	85%{
+		background-image: url("Naruto-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	100%{
+		background-image: url("Your_lie_in_april-bg.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+}
+
+.item{
+	display: inline-flex;
+	align-items: flex-start;
+	position : relative;
+	top : 0px;
+	width : 300px;
+	height : fit-content;
+	margin-left : 5px;
+	margin-right : 5px;
+	border-radius: 30px;
+	background-color: #1C2833;
+}
+.item:hover{
+	border : 1px solid #EA4921;
+}
+.item a{
+	text-decoration : none;
+	color : white;
+}
+
+.article{
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.article p{
+	width : 100%;
+}
+
+.title
+{
+	font-weight: bold;
+	font-size : 15px;
+	margin-right: auto;
+	margin-left: auto;
+	color : #EA4921 !important;
+}
+
+.item p{
+	text-align: center;
+}
+.item img{
+	max-height :120px;
+	width : auto;
+}
