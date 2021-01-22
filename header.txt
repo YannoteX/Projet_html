@@ -1,0 +1,69 @@
+<header>
+
+		<div id="header_wrapper">
+			<div class="logo">
+				<div>
+					<p>Young</p>
+					<p class="japan">若い</p>
+				</div>
+				<div class="header_logo">
+					<a href="Accueil.html"><img alt="logo" src="pictures\website-logo.jpg"></a>
+					<p>par la <a href="https://www.mcjp.fr/">MCJP</a></p>
+				</div>
+				<div>
+					<p>Japan</p>
+					<p class="japan">日本</p>
+				</div>
+			</div>
+			<div class="header_connexion">
+				<p><img alt="Connexion logo" src="pictures\login_logo.png"></p>
+				<p><a href="Page_Connection.html">Connexion</a> | <a href="Page_D'inscription.html">Inscription</a></p>
+			</div>
+		</div>
+		<nav id="menu">
+			<ul class="menu">
+				<li classe="cat">
+					<a href="pagedactualité.html"><div><p>Actualités</p></div></a>
+					<ul class="menu_roll">
+						<li><a href="pagedactualité.html#À la Une"><div><p>À la Une</p></div></a></li>
+						<li><a href="pagedactualité.html#Manga"><div><p>Manga</p></div></a></li>
+						<li><a href="pagedactualité.html#Cinéma"><div><p>Cinéma</p></div></a></li>
+						<li><a href="pagedactualité.html#Jeux-vidéos"><div><p>Jeux-vidéo</p></div></a></li>
+						<li><a href="pagedactualité.html#Musique"><div><p>Musique</p></div></a></li>
+						<li><a href="pagedactualité.html#Animé"><div><p>Animé</p></div></a></li>
+					</ul>
+				</li>
+				<li classe="cat">
+					<a href="pagedevenement.html"><div><p>Evenements</p></div></a>
+					<ul class="menu_roll">
+						<li><a href="pagedevenement.html#Cours"><div><p>Cours</p></div></a></li>
+						<li><a href="pagedevenement.html#Conférences"><div><p>Conférences</p></div></a></li>
+						<li><a href="pagedevenement.html#Cours bilingues"><div><p>Cours bilingues</p></div></a></li>
+						<li><a href="pagedevenement.html#Cinéma"><div><p>Cinéma</p></div></a></li>
+						<li><a href="pagedevenement.html#Ateliers démos"><div><p>Ateliers démos</p></div></a></li>
+						<li><a href="pagedevenement.html#Expositions"><div><p>Expositions</p></div></a></li>
+						<li><a href="pagedevenement.html#Langue japonaise"><div><p>Langue japonaise</p></div></a></li>
+						<li><a href="pagedevenement.html#Chez nos partenaires"><div><p>Chez nos partenaires</p></div></a></li>
+						<li><a href="pagedevenement-.html#Spectacles"><div><p>Spectacles</p></div></a></li>
+					</ul>
+				</li>
+				<li class="cat">
+					<a href="Page_Co_Reservation.html"><div><p>Reservations</p></div></a>
+					<ul class="menu_roll">
+					</ul>
+				</li>
+				<li class="cat">
+					<a href="PODCAST.HTML"><div><p>Podcasts</p></div></a>
+					<ul class="menu_roll">
+						<li><a href="PODCAST.HTML#Le Studio"><p>Le Studio</p></a></li>
+						<li><a href="PODCAST.HTML#Miso Point"><p>Miso Point</p></a></li>
+					</ul>
+				</li>
+				<li class="cat">
+					<a href="forum.html"><p>Forums</p></a>
+					<ul class="menu_roll">
+					</ul>
+				</li>
+			</ul>
+		</nav>
+	</header>
