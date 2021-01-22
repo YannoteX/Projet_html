@@ -1,0 +1,48 @@
+.choisir {
+	width: 920px;
+	height: 1350px;
+	position: absolute;
+	background-color: black;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-20%);
+	color: white;
+}
+.choisir input[type="submit"]{
+	border:none;
+	outline: none;
+	height: 40px;
+	background: #fb2525;
+	color:#fff;
+	font-size: 18px;
+	border-radius: 20px;
+}
+.choisir input[type="submit"]:hover {
+	cursor: pointer;
+	background: #ffc107;
+	color: #000;
+}
+h1 {
+	color: red;
+	text-align: center;
+}
+#bloc_horizontal {
+	display: flex;
+}
+.bloc {
+	width: 400px;
+	height: 350px;
+	margin: 30px;
+}
+#design{
+    background: url("https://cdn.discordapp.com/attachments/782590273888583690/798468638003691520/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg");
+    height: 170vh;
+    background-position:center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+}
