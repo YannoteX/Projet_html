@@ -1,0 +1,64 @@
+.discussion{
+	margin-top: 160px;
+}
+
+.message1{
+	width: fit-content;
+	max-width : 90%;
+	margin-left: 80px;
+	margin-top : 25px;
+	margin-bottom : 25px;
+	background-color: #B2BABB;
+	padding : 15px;
+	border : 2px solid;
+	border-color: #424949;
+	border-radius : 8px;
+}
+
+.message2{
+	width: fit-content;
+	max-width : 90%;
+	margin-left: 80px;
+	margin-top : 25px;
+	margin-bottom : 25px;
+	background-color: #E5E8E8;
+	padding : 15px;
+	border : 2px solid;
+	border-color: #424949;
+	border-radius : 8px;
+}
+
+.message1 div{
+	display : inline-block;
+	vertical-align: top;
+}
+
+.message2 div{
+	display : inline-block;
+	vertical-align: top;
+}
+
+.msg_ID{
+	border : solid 1px black;
+	padding : 5px;
+}
+.msg_ID img{
+	max-width : 100px;
+	height: auto;
+	position: relative;
+	left : 0%;
+	top: 0%;
+	display: block;
+}
+.msg_ID p{
+	display: inline-block;
+	vertical-align: middle;
+	margin : 0px;
+	width : fit-content;
+	height: fit-content;
+	font-size: 40px;
+}
+
+.msg1{
+
+}
