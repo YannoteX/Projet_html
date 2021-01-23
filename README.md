@@ -1,23 +1,26 @@
 # Projet_html
 
-## IMPORTANT
 
-Ce document permet à tout le monde d'apporter des précisions sur ses pages respectives.
+## Sujet 11-1 ##
 
-Pour les points d'ancrage :
 
-Toutes les images sont à mettre dans le fichier pictures, ainsi que les fichiers css dans le fichier css. N'oubliez de placer dans vos url : *nom_du_dossier\nom_de_l_image*
+Groupe :
 
-Si vous avez des images à mettre dans le css, n'oubliez pas de les mettre dans le dossier (ou sous dossier) de celui **du css** (donc dans html\css)
+Oussama Tiddarh
 
-Pour les textes :
+Ryan Rabiah
 
-L'exemple est donné dans main.css, partie .text_default.
+Akaash Jeevachandran
 
-## Header
+Hugo Jeudy (chef de projet)
 
-Chaque sous partie de votre page (ex : à la une, les inoubliables, les prochains ; pour les événements) doit avoir une classe que vous me communiquerez pour que je puisse l'ancrer dans le header.
 
-## Footer
+## Remarques ##
 
-Il faut que vous puissiez donner au premier element de votre page l'id : premier_element (le bouton haut de page du footer sera ancré dessus)
+
+Le site est censé acceuillir un système de connexion obligatoire pour les réservations et pour le forum.
+
+
+
+
+P.S. : le oops.html est censé représenter la page qui s'affiche lorsque l'utilisateur n'est pas connecté pour les pages qui le requiert (reservations et forum). Elle n'est donc pas intégrée à la naviguation par défaut (mais elle fonctionne).
