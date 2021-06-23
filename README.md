@@ -18,7 +18,7 @@ Hugo Jeudy (chef de projet)
 ## Remarques ##
 
 
-Le site est censé acceuillir un système de connexion obligatoire pour les réservations et pour le forum.
+Le site est censé acceuillir un système de connexion obligatoire pour les réservations et pour le forum. Il commence avec Acceuil.html.
 
 Entierement réalisé en html et en css (aucune api ou application supplémentaire autre que pour le design)
 
