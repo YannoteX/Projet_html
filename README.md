@@ -20,7 +20,7 @@ Hugo Jeudy (chef de projet)
 
 Le site est censé acceuillir un système de connexion obligatoire pour les réservations et pour le forum.
 
-
+Entierement réalisé en html et en css (aucune api ou application supplémentaire autre que pour le design)
 
 
 P.S. : le oops.html est censé représenter la page qui s'affiche lorsque l'utilisateur n'est pas connecté pour les pages qui le requiert (reservations et forum). Elle n'est donc pas intégrée à la naviguation par défaut (mais elle fonctionne).
